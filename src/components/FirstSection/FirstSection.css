@@ -1,0 +1,9 @@
+.first-section{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h2{
+  color: #aab0b6;
+  border-bottom-style: double;
+}

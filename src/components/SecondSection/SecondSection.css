@@ -1,0 +1,9 @@
+.second-section{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.second-section-img{
+  width: 300px;
+}

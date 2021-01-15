@@ -1,0 +1,30 @@
+.makeStyles-appBar-2{
+  background-color: #fff !important;
+}
+
+.MuiAppBar-colorPrimary{
+  background-color: #fff;
+}
+
+.MuiToolbar-regular{
+  min-height: 48px !important;
+}
+
+.makeStyles-menuButton-4{
+  color: #000000 !important;
+}
+
+
+.navibar{
+  display: flex;
+  /* position: fixed; */
+  /* top: 0; */
+  background-color: #fff;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+}
+
+.span-lang{
+  color: #000000;
+}

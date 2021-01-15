@@ -1,0 +1,29 @@
+.navbar-logo-block{
+  width: -webkit-fill-available;
+}
+.navbar-logo-img{
+  width: 100px;
+}
+
+/* .navibar{
+  display: flex;
+  position: fixed;
+  top: 0;
+  background-color: #fff;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+} */
+
+/* .search-icon-block{
+  margin-left: 10px;
+} */
+
+.change-lang-block{
+  margin-right: 10px;
+}
+
+.span-lang{
+  margin-right: 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.news-slider{
+  /* padding-top: 10px;
+  padding-bottom: 10px; */
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  background-color: #32363a;
+}
+
+.news-slider h2{
+  padding: 10px 0;
+  color: #aab0b6;
+  border: none;
+}
+
+.slick-next:before{
+  color: #ffffff !important;
+}
+.slick-prev:before{
+  color: #ffffff !important;
+}
+
+.slick-dots li.slick-active button:before{
+  color: #ffffff !important;
+}
